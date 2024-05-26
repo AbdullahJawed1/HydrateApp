@@ -4,8 +4,8 @@ HydrateApp
 HydrateApp is a mobile application designed to help users track their daily water intake. The app features a user-friendly interface to log water entries, view progress, set daily intake goals, and review historical data. The backend is built using Node.js and Express, and it uses PostgreSQL (Supabase) for data storage.
 
 
-Table of Contents
-Setup Instructions
+**Table of Contents
+**Setup Instructions
 Documentation
 Explanation
 Setup Instructions
